@@ -6,7 +6,7 @@
 
 ```shell
 git clone https://github.com/SelimSayeh/BackEndRelief
-cd BackEndRelife
+cd BackEndRelief
 ```
 
 ### Install npm packages
